@@ -14,4 +14,4 @@ Jiajing Xue xuejiajing@stu.xmu.edu.cn
   One example for usage of MixNN function in estimating the model.
 
 # Publication
-Xue, J., Xu, Y., Li, J., Ma, S., & Fang, K. (2025). Ordinal Sparse Neural Networks for Modeling Gene‐and Imaging‐Environment Interactions. Statistics in Medicine, 44(23-24), e70302.
+Xue, J., Xu, Y., Li, J., Ma, S., & Fang, K. (2025). Joint modeling of mixed outcomes using a rank-based sparse neural network. Journal of Biomedical Informatics, 104870
